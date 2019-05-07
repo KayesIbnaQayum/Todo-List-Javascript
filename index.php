@@ -36,12 +36,7 @@
 
 
 <ul id="myList" class="list-group" style="padding-top:10px">
-  <li class="list-group-item" >
-  <i id="circle_check" class="far fa-circle" job="done"></i>
-  <span id="todo_text" class='text'>asdads</span>
-  
-  <button type="button" id="delete_btn" job="delete" class="btn btn-danger fas fa-trash" style="float:right; position:relative; top:-7px"></button>
-  </li>
+
 </ul>
 
 
